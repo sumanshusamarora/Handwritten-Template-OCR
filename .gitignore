@@ -1,0 +1,4 @@
+*/words
+/model/checkpoints/
+/model
+*.h5
