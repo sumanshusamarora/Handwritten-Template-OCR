@@ -7,5 +7,5 @@
 4) Pandas
 5) Matplotlib
 
-# Handwriting Recongition
+# Handwriting Recognition
 Tensorflow 2.1
