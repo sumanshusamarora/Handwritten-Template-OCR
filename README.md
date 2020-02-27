@@ -6,3 +6,6 @@
 3) Numpy
 4) Pandas
 5) Matplotlib
+
+# Handwriting Recongition
+Tensorflow 2.1
