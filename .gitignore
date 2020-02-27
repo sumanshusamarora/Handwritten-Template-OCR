@@ -2,3 +2,5 @@
 /model/checkpoints/
 /model
 *.h5
+X_val
+X_train
